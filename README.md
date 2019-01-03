@@ -8,5 +8,3 @@ Made during devilsInvent-IoT
 
 3.Run `npm start`.
 
-
-NOTE: You need to install all the npm dependencies for the code to run
